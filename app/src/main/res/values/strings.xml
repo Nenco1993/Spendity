@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spendity</string>
+    <string name="login_sign_in_button">Prijava</string>
+    <string name="login_email">E - mail adresa</string>
+    <string name="login_password">Lozinka</string>
+    <string name="title_activity_spending_tessst2">SpendingTessst2</string>
+    <string name="error_message">Something went wrong</string>
+</resources>
